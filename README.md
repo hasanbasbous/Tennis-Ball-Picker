@@ -1,0 +1,2 @@
+# Tennis-Ball-Picker
+Using opencv for object and color detection, raspberry pi, pic18f, LCD, and rover. The project won the class's competition due its simple hand design. The constraints were to pick and place the balls in a 5cm height box. The hand was effective in completing the task and showed that it can be done without an expensive or mechanical hand. The initial opencv source code goes back to Matt-Timmons Brown. I introduced some adjustments to the code that it can accommodate detecting the drop box, dropping the ball and then searching for the remaining balls.
